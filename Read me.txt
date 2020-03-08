@@ -1,0 +1,11 @@
+Something I learnt following a Project tutorial.
+
+The Clock changes responsively depending on the screen size.
+
+Made a few changes in the design elements.
+
+You can find the icons on the below webite...
+https://fontawesome.com/
+
+For beautiful background wallpapers..
+https://www.flaticon.com/
